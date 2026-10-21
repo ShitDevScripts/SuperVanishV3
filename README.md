@@ -20,7 +20,7 @@ Get operator rights or the permssions from the `plugin.yml`. Then you are able t
 Gradle is used to construct SuperVanish.
 
 #### System Requirements
-* Java JDK 17 
+* Java JDK 25
 * Git
 
 #### Compiling from source

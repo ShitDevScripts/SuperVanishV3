@@ -2,7 +2,7 @@
 # https://docs.gradle.org/current/userguide/platforms.html#sub::toml-dependencies-format
 
 [versions]
-org-spigotmc-spigot-api = "1.21-R0.1-SNAPSHOT"
+org-spigotmc-spigot-api = "26.3-R0.1-SNAPSHOT"
 
 [libraries]
 org-spigotmc-spigot-api = { module = "org.spigotmc:spigot-api", version.ref = "org-spigotmc-spigot-api" }

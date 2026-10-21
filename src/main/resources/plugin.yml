@@ -1,7 +1,7 @@
 name: SuperVanish
 version: '3.3'
 main: dev.philippcmd.supervanish.Main
-api-version: '1.21'
+api-version: '26.3'
 
 commands:
   vanish:

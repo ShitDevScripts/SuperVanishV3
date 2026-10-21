@@ -24,12 +24,12 @@ dependencies {
 }
 
 group = "dev.philippcmd"
-version = "1.21.x_3.3"
+version = "26.3.x_3.3"
 description = "SuperVanish"
 
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(21))
+        languageVersion.set(JavaLanguageVersion.of(25))
     }
 }
 

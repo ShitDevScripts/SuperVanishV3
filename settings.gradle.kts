@@ -1,6 +1,6 @@
 rootProject.name = "SuperVanish"
 
-var MINECRAFT_VERSION = "1.21"
+var MINECRAFT_VERSION = "26.3"
 
 val MAJOR_VERSION = 3
 val MINOR_VERSION = 2
